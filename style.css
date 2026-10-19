@@ -1,0 +1,36 @@
+/* Основное оформление страницы */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f1f5f9;
+    color: #1e293b;
+}
+
+/* Шапка сайта */
+header {
+    background: #ffffff;
+    padding: 25px;
+    text-align: center;
+}
+
+/* Навигация */
+nav a {
+    color: #2563eb;
+    text-decoration: none;
+    margin: 10px;
+}
+
+/* Основной контент */
+main {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+/* Карточка проекта */
+.card {
+    background: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px #00000010;
+}
